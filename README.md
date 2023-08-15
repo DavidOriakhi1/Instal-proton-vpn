@@ -1,6 +1,6 @@
 # Instal-proton-vpn 
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://i.imgur.com/HVVikhs.jpg" alt="Microsoft Active Directory Logo"/>
 </p>
 
 <h1> Vpn installation and connectivity within remote desktop</h1>
